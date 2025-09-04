@@ -1,7 +1,7 @@
 #include <iostream>
 
 // Entry point of the program
-int main()
+auto main() -> int
 {
     std::cout << "Hello, World!\n";
 
